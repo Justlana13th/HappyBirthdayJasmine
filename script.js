@@ -63,3 +63,12 @@ setInterval(function(){
     }
     
 },1000);
+
+function myFunction() {
+    alert("Hello! I am an alert box!");
+    alert("wkwkwkwkwkwk");
+    alert("heheheheh");
+    alert("Haloooooo");
+    alert("Hiiiii");
+    alert("waokwoakwoawo");
+  }
