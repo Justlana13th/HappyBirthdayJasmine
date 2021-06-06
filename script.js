@@ -65,10 +65,10 @@ setInterval(function(){
 },1000);
 
 function myFunction() {
-    alert("Hello! I am an alert box!");
-    alert("wkwkwkwkwkwk");
-    alert("heheheheh");
-    alert("Haloooooo");
-    alert("Hiiiii");
-    alert("waokwoakwoawo");
+    alert("Halooo bubu guma gumaa");
+    alert("maaf ya kalo website nya terlalu lebay hehe");
+    alert("oh iya, aku punya satu permintaan terakhir");
+    alert("coba deh kamu keluar, ke depan pager rumah kamu aja");
+    alert("trus liat ke arah taman deh");
+    alert("thank you and i love you so much beb");
   }
