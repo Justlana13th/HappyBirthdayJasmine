@@ -68,7 +68,9 @@ function myFunction() {
     alert("Halooo bubu guma gumaa");
     alert("maaf ya kalo website nya terlalu lebay hehe");
     alert("oh iya, aku punya satu permintaan terakhir");
-    alert("coba deh kamu keluar, ke depan pager rumah kamu aja");
-    alert("trus liat ke arah taman deh");
+    alert("ini beneran yang terakhir kok. setelah ini aku akan menjauh dan ga akan ganggu kamu lagi, aku janji bubu");
+    alert("coba deh kamu keluar rumah, ke depan pager rumah kamu aja");
+    alert("trus liat kanan dan kiri deh :P");
     alert("thank you and i love you so much beb");
+    alert("Terimakasih ya untuk segalanya, aku beruntung banget bisa kenal kamu, jaga diri kamu ya");
   }
